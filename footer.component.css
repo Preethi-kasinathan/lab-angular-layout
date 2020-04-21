@@ -1,0 +1,11 @@
+.footer {
+    background-color: orangered;
+    height: 3em;
+}
+
+.p {
+    color: white;
+    padding-left: 2em;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+}
